@@ -1,0 +1,8 @@
+{
+  "name": "JYBITES — Bold Fast Food & Burgers",
+  "description": "JYBITES serves bold, freshly prepared fast food including loaded smash burgers, crispy chicken, fries, wraps, and satisfying bites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
